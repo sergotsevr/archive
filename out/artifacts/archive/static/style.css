@@ -1,0 +1,19 @@
+.get {
+    margin-left: 90px;
+    margin-top: 90px;    
+    }
+#container {
+    background: #555;
+    overflow: hidden
+  }
+  .text-justify {
+    text-align: justify;
+  }
+  .top{
+    margin-top: 90px;
+  }
+  .MENU{
+      margin-left: 20px;
+      
+  }
+ 
